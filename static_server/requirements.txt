@@ -1,0 +1,2 @@
+aws-wsgi==0.2.5
+whitenoise==5.0.1
