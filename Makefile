@@ -29,5 +29,5 @@ package: build
 run: build
 	sam local start-api
 
-deploy: build
+deploy: package
 	sam deploy -g
